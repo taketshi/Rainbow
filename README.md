@@ -13,6 +13,7 @@ Completed
 - _main.py_: python file running a test of the rainbow implementation
 - announcements: Folder with Data/Verification base that allows you to write announcements as an user, generating a signature for it. It also allows you to verify if a certain announcement was made by a certain user by using its public key and comparing it to the announcement.
 Note: Use only lower case letters and space.
+- Rainbow.pdf: PDF containing explanation of signature scheme
 
 ## Packages
 - pyfinite
